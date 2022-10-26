@@ -1,12 +1,12 @@
 {
   "name": "test-joker-xiaolasse",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Just joking",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
     "test": "node src/js/joker.test.js",
-    "format": "prettier -w src/**/*.js", 
+    "format": "prettier -w src/**/*.js",
     "lint": "eslint src/**/*.js",
     "lint-fix": "eslint src/**/*.js --cache --fix"
   },
