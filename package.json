@@ -1,6 +1,6 @@
 {
   "name": "test-joker-xiaolasse",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Just joking",
   "type": "module",
   "main": "src/index.js",
